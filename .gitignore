@@ -1,0 +1,7 @@
+# Ignore frontend code for now.
+src/web 
+
+
+todo-private
+build/
+
