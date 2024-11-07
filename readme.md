@@ -1,11 +1,10 @@
-PearTok("/pɛrtoʊk/") is a peer-to-peer, token transfer app made with Go, Gin and TypeScript. Instead of relying on centralized servers, it uses direct TCP connections to connect with peers.
+PearTok("/pɛrtoʊk/") is a peer-to-peer, token transfer app made with Go, Gin and JavaScript. Instead of relying on centralized servers, it uses direct TCP connections to connect with peers.
 
 
 Disclaimer: This software is provided "as is" without any warranty of any kind. These tokens do not have any monetary value.
 
 
 ## Usage
-
 
 1. Build the project by `go build -o peartok-go .`
 
